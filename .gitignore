@@ -1,5 +1,6 @@
 *.ipynb_checkpoints
 *Output
+*Data
 .vscode
 *slurm*
 *dask-worker*
